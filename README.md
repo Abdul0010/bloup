@@ -28,3 +28,14 @@ $max_file_size = 1024*8800; // 8800 = 8800 Kb = 8.8 Mb
 *** If you have some programming skills you can change the delete Hash ( e820903f412e8b033803a6d6ae381098 ) using a text editor by finding it and replace all with your new Hash or word.
 
 Hint: There is only 3 of ( e820903f412e8b033803a6d6ae381098 ).
+
+---------------------------------------------------------------------------
+
+#Features:
+
+- Full responsive ( Bootstrap 3 )
+- Multi-files upload ( +8 mb fo each )
+- Delete files section
+- Show files direct links ( Open in new window )
+- Show photos only ( Preview )
+- Login / Logout password protection
